@@ -1,5 +1,5 @@
 # Mandelbulb-3D-Parameters
-Parameters for the Mandelbulb-3D fractal generation software
+Parameters for the Mandelbulb-3D fractal generation software.
 Images for these parameters can be found at:
 
 http://digitalstewtwo.blogspot.com/
